@@ -5,6 +5,7 @@ A data-driven approach to predict the success of bank telemarketing, Decision Su
 - Dataset : [UC Irvine ML Repository](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 - Project for Machine Learning in Fintech, 2021 Coursework in SNU AIIS Big Data Fintech Program
 - Goal: Build the Best Classifier Model for campaign success
+- Framework: Jupyter Notebook in Google Colab
 - Models Used: Logistic Regression, K-Nearest Neighbor, Random Forest, SVM, XGBoost, LGBM
 - Best Model: Soft voting Ensembled classifiers (Logistic Regression, RF, XGB, LGBM) with AUC .79 and F1 score .47
 - Result Analysis
