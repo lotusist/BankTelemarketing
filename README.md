@@ -7,7 +7,7 @@ A data-driven approach to predict the success of bank telemarketing, Decision Su
 - Goal: Build the Best Classifier Model for campaign success
 - Models Used: Logistic Regression, K-Nearest Neighbor, Random Forest, SVM, XGBoost, LGBM
 - Best Model: Soft voting Ensembled classifiers (Logistic Regression, RF, XGB, LGBM) with AUC .79 and F1 score .47
-- Insight
--- Higher probability of success when the socio-economic indices are bad.
--- Students, the Retired, the fresh contacts, the married, and people with no house loans are the high potential targets.
--- Numerous contacts are not influential.
+- Result Analysis
+> Higher probability of success when the socio-economic indices are bad.
+> Students, the Retired, the fresh contacts, the married, and people with no house loans are the high potential targets.
+> Numerous contacts are not influential.
